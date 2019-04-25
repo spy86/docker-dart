@@ -1,5 +1,5 @@
 # Pull base image.
-FROM spy86/ubuntu:56d0ade6e00a1aa7de16a6645eebdafcc7f5b1ee
+FROM spy86/ubuntu:latest
 
 # Install Dart.
 RUN \
