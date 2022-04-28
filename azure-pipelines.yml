@@ -28,7 +28,7 @@ variables:
   - name: tag
     value: '$(Build.BuildNumber)'
   - name: image_name
-    value: 'docker-dart'
+    value: 'dart'
 
 stages:
 - stage: Build
